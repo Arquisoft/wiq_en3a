@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "answers": ["Paris", "Berlin", "London", "Rome"],
+        "correct_index": 0
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "answers": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "correct_index": 0
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": ["Mars", "Jupiter", "Saturn", "Mercury"],
+        "correct_index": 0
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "answers": ["H2O", "CO2", "NaCl", "CH4"],
+        "correct_index": 0
+      },
+      {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+        "correct_index": 0
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answers": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+        "correct_index": 0
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answers": ["Japan", "China", "South Korea", "Vietnam"],
+        "correct_index": 0
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "answers": ["Alexander Fleming", "Marie Curie", "Albert Einstein", "Isaac Newton"],
+        "correct_index": 0
+      },
+      {
+        "question": "What is the primary ingredient in guacamole?",
+        "answers": ["Avocado", "Tomato", "Onion", "Lemon"],
+        "correct_index": 0
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "answers": ["Yen", "Euro", "Dollar", "Pound"],
+        "correct_index": 0
+      }
+    ]
+  }
+  
